@@ -20,4 +20,4 @@ Machine Learning algorithms used:
 Accuracy achieved: 95% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
-Link to Kernel: https://www.kaggle.com/jashsheth5/binary-classification-with-sklearn-and-keras-95
+
